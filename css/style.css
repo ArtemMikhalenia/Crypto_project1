@@ -1,0 +1,17 @@
+p.subtitle,
+h1.title,
+p.text {
+   animation-duration: 1.5s;
+}
+
+p.subtitle {
+   animation-delay: 0s;
+}
+
+h1.title {
+   animation-delay: 0.2s;
+}
+
+p.text {
+   animation-delay: 0.4s;
+}
